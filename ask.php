@@ -26,8 +26,8 @@
     <div class="middle">
         <div class="middle-item">
             <nav class="nav flex-column">
-                <a class="nav-link active" aria-current="page" href="index.html">My Project</a>
-                <a class="nav-link" href="about.html">About Me</a>
+                <a class="nav-link active" aria-current="page" href="index.php">My Project</a>
+                <a class="nav-link" href="about.php">About Me</a>
                 <a class="nav-link" href="#" id="now">Ask Me!</a>
             </nav>
         </div>
